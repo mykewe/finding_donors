@@ -8,8 +8,7 @@ This sort of task can arise in a non-profit setting, where organizations survive
 To this end, I employed the following supervised algorithms:
 - K-Nearest Neighbors (KNeighbors)
 - Adaboost, and
-- Logistic Regression
-<br>
+- Logistic Regression, <br>
  to accurately model individuals' income using data collected from the 1994 U.S. Census. 
  
  #### Best model
